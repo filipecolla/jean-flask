@@ -1,0 +1,118 @@
+.logo-center{
+    position: absolute;
+    top: 6%;
+    left: 5%;
+    height: 5.2%;
+    width: 10%;
+}
+.top-hr{
+    border: none;
+    border-top: 15px solid rgb(8, 6, 122);
+    position: absolute;
+    top: -8px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
+.h1-center{
+    position: relative;
+    top: 13vh;
+    left: 4.8%;
+}
+.h2-center{
+    position: relative;
+    top: 13vh;
+    left: 4.8%;
+}
+.email-just{
+    position: relative;
+    top: 160px;
+    left: 4.8%;
+}
+.mid-hr{
+    border: none;
+    border-top: 3px solid rgb(8, 6, 122);
+    position: absolute;
+    top: 290px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 93%;
+}
+.input-custom{
+    max-width: 20vw;
+    max-height: 20vh;
+    min-width: 8vw;
+    min-height: 4vh;
+}
+.background{
+    background-image: url("/static/imagens/fundo.png");
+    margin: 0px;
+    padding: 0px;
+}
+.text{
+    text-align: justify;
+    position: relative;
+    top: 65vh;
+    left: 14.7%;
+}
+.capa {
+    position: absolute;
+    top: 16.1%;
+    left: 15%;
+    width: 71%;
+    height: 55.5%;
+}
+.hr2 {
+    border: none;
+    border-top: 15px solid rgb(8, 6, 122);
+    position: absolute;
+    top: 13%;
+    right: 0%;
+    width: 100%;
+}
+.href{
+    position: relative;
+    top: 6vh;
+    left: 77%;
+    font-size: 125%;
+}
+.banner {
+    background-color: aqua;
+    display: flex;
+}
+.banner img {
+    width: 100%;
+}
+.h3{
+    position: relative;
+    top: 10vh;
+    left: 5%;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+}
+.h2{
+    position: relative;
+    top: 9vh;
+    left: 6.2%;
+}
+.h1{
+    position: relative;
+    top: 10vh;
+    left: 4.8%;
+}
+.mid-hr {
+    border: none;
+    border-top: 2px solid rgb(8, 6, 122);
+    position: absolute;
+    top: 41%;
+    bottom: 0px;
+    left: 0;
+    right: 0;
+    width: 89.7%;
+}
